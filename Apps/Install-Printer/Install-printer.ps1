@@ -1,5 +1,5 @@
 #Printer Name
-$printerName = "2.krs - Kirjaus/Tauko - 224"
+$printerName = "Printer Upstairs"
 
 #Driver Information
 $driverName = "Kyocera ECOSYS M6235cidn KX"
